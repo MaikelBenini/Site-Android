@@ -150,4 +150,5 @@ footer>div {
     padding: 5px;
     color: white;
     background-color: black;
+    min-width: 330px;
 }
